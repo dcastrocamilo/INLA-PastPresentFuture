@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -90,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Homes</span></a>
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./registration.html"> 
@@ -127,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -163,18 +197,29 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <p><strong>Organisers</strong>: <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/" class="external" target="_blank">Daniela Castro-Camilo</a>, <a href="https://www.ntnu.edu/employees/sara.martino" class="external" target="_blank">Sara Martino</a>, and <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/" class="external" target="_blank">Janine Illian</a></p>
-<div class="columns">
-<div class="column" style="width:30%;">
-<p><img src="img/hr_pic.png" class="img-fluid"></p>
-</div><div class="column" style="width:70%;">
-<p>The second edition of the workshop INLA: Past, Present, and Future will be held in honour of Haavard Rue’s 60th birthday.</p>
-<p><br></p>
-<p>The event will take place <strong>21-23 May 2025</strong> in the University of Glasgow and is generously sponsored by the Glasgow Mathematical Journal Trust.</p>
+<div class="cell page-columns page-full" data-layout-align="center">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>mtcars2 <span class="ot">&lt;-</span> mtcars</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>mtcars2<span class="sc">$</span>am <span class="ot">&lt;-</span> <span class="fu">factor</span>(</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  mtcars<span class="sc">$</span>am, <span class="at">labels =</span> <span class="fu">c</span>(<span class="st">'automatic'</span>, <span class="st">'manual'</span>)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(mtcars2, <span class="fu">aes</span>(hp, mpg, <span class="at">color =</span> am)) <span class="sc">+</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>() <span class="sc">+</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_smooth</span>(<span class="at">formula =</span> y <span class="sc">~</span> x, <span class="at">method =</span> <span class="st">"loess"</span>) <span class="sc">+</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">'bottom'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+
+<div class="no-row-height column-margin column-container"><div class="cell-output-display">
+<div id="fig-mtcars" class="quarto-float quarto-figure quarto-figure-center anchored" data-fig-align="center">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-mtcars-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="index_files/figure-html/fig-mtcars-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="672">
 </div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-mtcars-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: MPG vs horsepower, colored by transmission.
+</figcaption>
+</figure>
 </div>
-<p>The workshop is free of charge, but registration is required due to limited capacity. Students and early career researchers are encouraged to participate.</p>
-<p>We welcome contributed talks and poster presentations. The deadline for abstract submission is the 1st of March 2025.</p>
-<p><strong>Organisers</strong>: <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/" class="external" target="_blank">Daniela Castro-Camilo</a>, <a href="https://www.ntnu.edu/employees/sara.martino" class="external" target="_blank">Sara Martino</a>, and <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/" class="external" target="_blank">Janine Illian</a></p>
+</div></div></div>
 
 
 

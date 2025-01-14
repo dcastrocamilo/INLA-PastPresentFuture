@@ -24,26 +24,18 @@ include_graphics('img/hr_pic.png')
 ```
 **Organisers**: [Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/){.external target="_blank"}, [Sara Martino](https://www.ntnu.edu/employees/sara.martino){.external target="_blank"}, and [Janine Illian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/){.external target="_blank"}
 
+```{r}
+#| label: fig-mtcars
+#| fig-cap: "MPG vs horsepower, colored by transmission."
+#| column: margin
 
-::: columns
-::: {.column width="30%"}
-
-![](img/hr_pic.png)
-:::
-
-::: {.column width="70%"}
-
-The second edition of the workshop INLA: Past, Present, and Future will be held in honour of Haavard Rue's 60th birthday. 
-
-<br>
-
-The event will take place **21-23 May 2025** in the University of Glasgow and is generously sponsored by the Glasgow Mathematical Journal Trust.
-
-:::
-:::
-
-The workshop is free of charge, but registration is required due to limited capacity. Students and early career researchers are encouraged to participate.
-
-We welcome contributed talks and poster presentations. The deadline for abstract submission is the 1st of March 2025.
-
-**Organisers**: [Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/){.external target="_blank"}, [Sara Martino](https://www.ntnu.edu/employees/sara.martino){.external target="_blank"}, and [Janine Illian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/){.external target="_blank"}
+library(ggplot2)
+mtcars2 <- mtcars
+mtcars2$am <- factor(
+  mtcars$am, labels = c('automatic', 'manual')
+)
+ggplot(mtcars2, aes(hp, mpg, color = am)) +
+  geom_point() +
+  geom_smooth(formula = y ~ x, method = "loess") +
+  theme(legend.position = 'bottom')
+```
