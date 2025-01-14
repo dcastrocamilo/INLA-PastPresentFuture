@@ -1,23 +1,37 @@
 [
   {
+    "objectID": "invited.html",
+    "href": "invited.html",
+    "title": "Invited Speakers",
+    "section": "",
+    "text": "TBC"
+  },
+  {
+    "objectID": "keynotes.html",
+    "href": "keynotes.html",
+    "title": "Keynote Speakers",
+    "section": "",
+    "text": "TBC"
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "Abtract submision",
+    "section": "",
+    "text": "Please submit abstracts for contributed talks or poster presentation here by 1st March 2025. Abstracts should be a maximum of 250 words."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "INLA: past, present, and future",
     "section": "",
-    "text": "We are excited to announce the second edition of the workshop INLA: Past, Present, and Future, which will be held in honour of Haavard Rue’s 60th birthday.\nThe event will take place 21-23 May 2025 in the Adam Smith Building and the School of Mathematics and Statistics at the University of Glasgow (UofG) and is generously sponsored by the Glasgow Mathematical Journal Trust.\nThe workshop is free of charge, but registration is required. Students and early career researchers (ECRs) are encouraged to participate."
+    "text": "We are pleased to announce the second edition of the workshop INLA: Past, Present, and Future, which will be held in honour of Haavard Rue’s 60th birthday.\nThe event will take place 21-23 May 2025 in the University of Glasgow and is generously sponsored by the Glasgow Mathematical Journal Trust.\nThe workshop is free of charge, but registration is required due to limited capacity. Students and early career researchers are encouraged to participate.\n\n  \n\n\nOrganisers:\n\n[] Daniela Castro-Camilo example\n[] Sara Martino\n[] Janine Illian"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Keynote Speakers",
+    "section": "",
+    "text": "TBC"
   }
 ]

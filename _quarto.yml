@@ -22,6 +22,8 @@ format:
   html:
     theme: cerulean
     toc: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 editor: source
 

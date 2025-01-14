@@ -7,12 +7,16 @@ about:
 ---
 
 :::{#main}
-We are excited to announce the second edition of the workshop INLA: Past, Present, and Future, which will be held in honour of Haavard Rue's 60th birthday. 
+We are pleased to announce the second edition of the workshop INLA: Past, Present, and Future, which will be held in honour of Haavard Rue's 60th birthday. 
 
-The event will take place *21-23 May 2025* in the Adam Smith Building and the School of Mathematics and Statistics at the University of Glasgow (UofG) and is generously sponsored by the Glasgow Mathematical Journal Trust.
+The event will take place **21-23 May 2025** in the University of Glasgow and is generously sponsored by the Glasgow Mathematical Journal Trust.
 
-The workshop is free of charge, but registration is required. Students and early career researchers (ECRs) are encouraged to participate.
+The workshop is free of charge, but registration is required due to limited capacity. Students and early career researchers are encouraged to participate.
 
 :::
 
+Organisers:
 
+- [] Daniela Castro-Camilo [example](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/){.external target="_blank"}
+- [] Sara Martino
+- [] Janine Illian
