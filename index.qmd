@@ -11,6 +11,14 @@ knitr::opts_chunk$set(
 library(knitr)
 ```
 
+```{r, echo=F}
+#| label: fig-hr
+#| fig-cap: ""
+#| column: margin
+
+include_graphics('img/hr_pic.png')
+```
+
 The second edition of the workshop INLA: Past, Present, and Future will be held in honour of Haavard Rue's 60th birthday. 
 
 The event will take place **21-23 May 2025** in the University of Glasgow and is generously sponsored by the Glasgow Mathematical Journal Trust.
@@ -23,6 +31,8 @@ We welcome contributed talks and poster presentations. The deadline for abstract
 include_graphics('img/hr_pic.png')
 ```
 **Organisers**: [Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/){.external target="_blank"}, [Sara Martino](https://www.ntnu.edu/employees/sara.martino){.external target="_blank"}, and [Janine Illian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/){.external target="_blank"}
+
+
 
 ```{r}
 #| label: fig-mtcars
