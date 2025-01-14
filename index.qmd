@@ -12,8 +12,6 @@ library(knitr)
 ```
 
 ```{r, echo=F}
-#| label: fig-hr
-#| fig-cap: ""
 #| column: margin
 
 include_graphics('img/hr_pic.png')
@@ -27,25 +25,4 @@ The workshop is free of charge, but registration is required due to limited capa
 
 We welcome contributed talks and poster presentations. The deadline for abstract submission is the 1st of March 2025.
 
-```{r, echo=F}
-include_graphics('img/hr_pic.png')
-```
 **Organisers**: [Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/){.external target="_blank"}, [Sara Martino](https://www.ntnu.edu/employees/sara.martino){.external target="_blank"}, and [Janine Illian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/){.external target="_blank"}
-
-
-
-```{r}
-#| label: fig-mtcars
-#| fig-cap: "MPG vs horsepower, colored by transmission."
-#| column: margin
-
-library(ggplot2)
-mtcars2 <- mtcars
-mtcars2$am <- factor(
-  mtcars$am, labels = c('automatic', 'manual')
-)
-ggplot(mtcars2, aes(hp, mpg, color = am)) +
-  geom_point() +
-  geom_smooth(formula = y ~ x, method = "loess") +
-  theme(legend.position = 'bottom')
-```
