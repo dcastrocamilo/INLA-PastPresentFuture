@@ -2,5 +2,4 @@
 title: "Registration"
 ---
 
-The workshop is free of charge, but registration is mandatory due to limited capacity. Please register to attend the workshop using the form below.
-
+The workshop is free of charge, but registration is mandatory due to limited capacity. Please register to attend the workshop using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyJqR-CXnEDNJstG6HYmoV49URURCNjVYV0xKMjE4NVE5QUE3TkFET1JROC4u).
