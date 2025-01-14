@@ -7,8 +7,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - projects.qmd
+        text: Homes
+      - registration.qmd
+      - keynotes.qmd
+      - invited.qmd
+      - abstract.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
