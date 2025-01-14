@@ -1,18 +1,17 @@
 ---
-title: "About Me"
+title: "INLA: past, present, and future"
 about:
-  id: me
+  id: main
   template: broadside
-  image: img/profile.png
+  image: img/hr_pic.png
 ---
 
-:::{#me}
+:::{#main}
+We are excited to announce the second edition of the workshop INLA: Past, Present, and Future, which will be held in honour of Haavard Rue's 60th birthday. 
 
-## Goals
+The event will take place *21-23 May 2025* in the Adam Smith Building and the School of Mathematics and Statistics at the University of Glasgow (UofG) and is generously sponsored by the Glasgow Mathematical Journal Trust.
 
-## Education
-
-## Experience
+The workshop is free of charge, but registration is required. Students and early career researchers (ECRs) are encouraged to participate.
 
 :::
 
