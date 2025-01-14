@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "INLA: past, present, and future"
+  title: "INLA workshop 2025"
   navbar:
     left:
       - href: index.qmd
