@@ -7,23 +7,21 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Homes
+        text: Home
       - registration.qmd
       - keynotes.qmd
       - invited.qmd
       - abstract.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+      - contact.qmd
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2025, DCC"
 
 format:
   html:
-    theme: cerulean
+    theme: cosmo
+    fontcolor: black
+    smooth-scroll: true
     toc: true
     link-external-icon: true
     link-external-newwindow: true
