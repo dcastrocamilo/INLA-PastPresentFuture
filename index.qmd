@@ -1,9 +1,6 @@
 ---
 title: "INLA: past, present, and future"
 subtitle: "In honour of Haavard Rue's 60th birthday"
-about:
-  id: main
-  template: broadside
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
