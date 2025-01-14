@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Homes
       - registration.qmd
       - keynotes.qmd
       - invited.qmd
@@ -19,6 +19,7 @@ website:
 
 format:
   html:
+    page-layout: full
     theme: cosmo
     fontcolor: black
     smooth-scroll: true
