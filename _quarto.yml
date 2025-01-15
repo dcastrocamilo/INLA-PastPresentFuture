@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Homes
+        text: Home
       - registration.qmd
       - keynotes.qmd
       - invited.qmd
