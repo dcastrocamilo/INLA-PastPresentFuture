@@ -1,0 +1,45 @@
+---
+title: "Tutorials"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  message = FALSE, 
+  warning = FALSE,
+  fig.align = "center"
+)
+library(knitr)
+```
+
+There will be two hands-on tutorials. Please see details below.
+
+
+## Statistical modeling on networks using MetricGraph
+
+**By** [David Bolin](https://www.kaust.edu.sa/en/study/faculty/david-bolin)
+
+**Description**
+
+There is an increasing interest in geostatistical modeling on metric graphs, such as street or river networks. Motivated by this, the course provides an introduction to statistical modeling on metric graphs using the [MetricGraph](https://davidbolin.github.io/MetricGraph/) package in R. Participants will learn the fundamental concepts of metric graphs and how to build metric graphs from various real-world data sources, such as OpenStreetMap, SSN river data, and TomTom traffic data.
+
+In addition to building and manipulating metric graphs, participants will learn how to add and integrate external data into metric graphs and explore data visualization techniques using ggplot2, plotly and leaflet. The course also introduces participants to mixed effects models and log-Gaussian Cox processes on metric graphs, including Gaussian random fields such as the Whittle-Matérn fields, and demonstrates how to fit these models using the MetricGraph package in combination with R-INLA and inlabru. 
+
+**Packages needed**
+
+MetricGraph, inlabru, INLA, leaflet, mapview, viridis, fmesher, sf, rSPDE
+
+```{r, echo=F, out.width = '15%'}
+include_graphics('img/metricgraph_logo.png')
+```
+
+
+## inlabru
+
+**By** [Finn Lindgren](https://www.maths.ed.ac.uk/~flindgre/)
+
+**Description**
+
+An overview of [inlabru](https://sites.google.com/inlabru.org/inlabru). More details soon.
+
+**Packages needed** 
+
+inlabru, INLA

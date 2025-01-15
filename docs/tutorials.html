@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Registration – INLA workshop 2025</title>
+<title>Tutorials – INLA workshop 2025</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./registration.html" aria-current="page"> 
+    <a class="nav-link" href="./registration.html"> 
 <span class="menu-text">Registration</span></a>
   </li>  
   <li class="nav-item">
@@ -105,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Invited Speakers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tutorials.html"> 
+    <a class="nav-link active" href="./tutorials.html" aria-current="page"> 
 <span class="menu-text">Tutorials</span></a>
   </li>  
   <li class="nav-item">
@@ -127,20 +127,27 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#statistical-modeling-on-networks-using-metricgraph" id="toc-statistical-modeling-on-networks-using-metricgraph" class="nav-link active" data-scroll-target="#statistical-modeling-on-networks-using-metricgraph">Statistical modeling on networks using MetricGraph</a></li>
+  <li><a href="#inlabru" id="toc-inlabru" class="nav-link" data-scroll-target="#inlabru">inlabru</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Registration</h1>
+<h1 class="title">Tutorials</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -152,9 +159,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The workshop is free of charge, but registration is mandatory due to limited capacity. Please register to attend the workshop using <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=KVxybjp2UE-B8i4lTwEzyJqR-CXnEDNJstG6HYmoV49URURCNjVYV0xKMjE4NVE5QUE3TkFET1JROC4u">this form</a>.</p>
+<p>There will be two hands-on tutorials. Please see details below.</p>
+<section id="statistical-modeling-on-networks-using-metricgraph" class="level2">
+<h2 class="anchored" data-anchor-id="statistical-modeling-on-networks-using-metricgraph">Statistical modeling on networks using MetricGraph</h2>
+<p><strong>By</strong> <a href="https://www.kaust.edu.sa/en/study/faculty/david-bolin">David Bolin</a></p>
+<p><strong>Description</strong></p>
+<p>There is an increasing interest in geostatistical modeling on metric graphs, such as street or river networks. Motivated by this, the course provides an introduction to statistical modeling on metric graphs using the <a href="https://davidbolin.github.io/MetricGraph/">MetricGraph</a> package in R. Participants will learn the fundamental concepts of metric graphs and how to build metric graphs from various real-world data sources, such as OpenStreetMap, SSN river data, and TomTom traffic data.</p>
+<p>In addition to building and manipulating metric graphs, participants will learn how to add and integrate external data into metric graphs and explore data visualization techniques using ggplot2, plotly and leaflet. The course also introduces participants to mixed effects models and log-Gaussian Cox processes on metric graphs, including Gaussian random fields such as the Whittle-Matérn fields, and demonstrates how to fit these models using the MetricGraph package in combination with R-INLA and inlabru.</p>
+<p><strong>Packages needed</strong></p>
+<p>MetricGraph, inlabru, INLA, leaflet, mapview, viridis, fmesher, sf, rSPDE</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/metricgraph_logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:15.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="inlabru" class="level2">
+<h2 class="anchored" data-anchor-id="inlabru">inlabru</h2>
+<p><strong>By</strong> <a href="https://www.maths.ed.ac.uk/~flindgre/">Finn Lindgren</a></p>
+<p><strong>Description</strong></p>
+<p>An overview of <a href="https://sites.google.com/inlabru.org/inlabru">inlabru</a>. More details soon.</p>
+<p><strong>Packages needed</strong></p>
+<p>inlabru, INLA</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
