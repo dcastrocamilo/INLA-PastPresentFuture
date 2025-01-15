@@ -14,7 +14,7 @@ website:
       - abstract.qmd
       - contact.qmd
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Organisers: [Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/), [Sara Martino](https://www.ntnu.edu/employees/sara.martino), and [Janine Illian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/)"
     left: "&copy; Copyright 2025, DCC"
 
 format:
