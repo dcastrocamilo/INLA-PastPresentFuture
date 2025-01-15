@@ -17,11 +17,13 @@ library(knitr)
 include_graphics('img/hr_pic.png')
 ```
 
-```{r, echo=F}
-#| column: left
 
-include_graphics('img/inla_logo.png')
-```
+<!-- ```{r, echo=F} -->
+<!-- #| column: margin -->
+
+<!-- include_graphics('img/inla_logo.png') -->
+<!-- ``` -->
+
 
 The second edition of the workshop INLA: Past, Present, and Future will be held in honour of Hävard Rue's 60th birthday. 
 
