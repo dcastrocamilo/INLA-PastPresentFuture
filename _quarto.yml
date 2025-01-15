@@ -8,18 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - registration.qmd
+      # - registration.qmd
       - keynotes.qmd
       - invited.qmd
-      - abstract.qmd
-      - contact.qmd
+      # - abstract.qmd
+      # - contact.qmd
   page-footer:
     right: "Organisers: [Daniela Castro-Camilo](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/danielacastrocamilo/), [Sara Martino](https://www.ntnu.edu/employees/sara.martino), and [Janine Illian](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/janineillian/)"
     left: "&copy; Copyright 2025, DCC"
 
 format:
   html:
-    page-layout: article
+    page-layout: full
     theme: cosmo
     fontcolor: black
     smooth-scroll: true
