@@ -23,7 +23,7 @@ Professor Lindgren's research focuses on spatial and spatio-temporal stochastic 
 
 ## Esmail Abdul Fattah
 
-Postdoctoral Researcher, CEMSE Division, King Abdullah University of Science and Technology (KAUST)
+Postdoctoral Researcher, CEMSE Division, KAUST
 
 ::: columns
 ::: {.column width=80%"}
