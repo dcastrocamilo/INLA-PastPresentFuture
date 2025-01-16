@@ -51,7 +51,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 :::
 ::: {.column width="20%"}
 
-![](img/Esmail_Abdul_Fattah.png)
+![](img/person_icon.png)
 
 
 :::
