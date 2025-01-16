@@ -24,7 +24,7 @@ format:
     theme: cosmo
     fontcolor: black
     smooth-scroll: true
-    toc: true
+    toc: false
     link-external-icon: true
     link-external-newwindow: true
 
