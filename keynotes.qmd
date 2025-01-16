@@ -2,6 +2,12 @@
 title: "Keynote Speakers"
 ---
 
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
 ## Finn Lindgren
 
 Chair of Statistics, School of Mathematics, The University of Edinburgh
