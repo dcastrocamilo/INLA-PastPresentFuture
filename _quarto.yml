@@ -21,8 +21,8 @@ website:
 format:
   html:
     page-layout: full
-    theme: cosmo
-    fontcolor: black
+    theme: flatly # cosmo, flatly, yeti, sandstone
+    # fontcolor: black
     smooth-scroll: true
     toc: false
     link-external-icon: true
