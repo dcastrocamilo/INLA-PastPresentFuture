@@ -11,6 +11,8 @@ Chair of Statistics, School of Mathematics, The University of Edinburgh
 
 Professor Lindgren's research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper "An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach," published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features.
 
+For more information, visit his [home page](https://www.maths.ed.ac.uk/~flindgre/)
+
 :::
 ::: {.column width="20%"}
 
@@ -33,5 +35,27 @@ Associate Professor, Department of Mathematical Sciences, NTNU, Norway
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
+For more information, visit her [home page](https://www.ntnu.edu/employees/sara.martino)
+
 :::
 :::   
+
+## Elias Teixeira Krainski
+
+Postdoctoral Research Fellow in Statistics, CEMSE Division, KAUST
+
+::: columns
+::: {.column width="80%"}
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+For more information, visit his [home page](https://cemse.kaust.edu.sa/profiles/elias-teixeira-krainski)
+
+:::
+::: {.column width="20%"}
+
+![](img/elias_krainski.png)
+
+
+:::
+:::

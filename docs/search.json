@@ -4,35 +4,56 @@
     "href": "invited.html",
     "title": "Invited Speakers",
     "section": "",
-    "text": "Postdoctoral Researcher, CEMSE Division, KAUST\n\n\nEsmail’s research focuses on advancing computational tools and methodologies to improve Bayesian inference, bridging complex statistical theory with practical computational applications. He earned his PhD in Statistics at KAUST under the supervision of Professor Håvard Rue, as part of the Computational Bayesian Statistics research group. In recognition of his contributions to computational statistics, he received the prestigious 2023 Al-Kindi Research Award for Outstanding Research."
+    "text": "Postdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST\n\n\nLola Ugarte is a Spanish statistician and professor at the Public University of Navarre. She is an expert in spatial statistics, spatio-temporal analysis, and small area estimation. She is a co-author of the textbook Probability and Statistics with R and has held prominent positions, including vice president of the Spanish Statistical Society and treasurer of the Federation of European National Statistical Societies. For more information, visit her home page."
+  },
+  {
+    "objectID": "invited.html#lola-ugarte",
+    "href": "invited.html#lola-ugarte",
+    "title": "Invited Speakers",
+    "section": "",
+    "text": "Postdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST\n\n\nLola Ugarte is a Spanish statistician and professor at the Public University of Navarre. She is an expert in spatial statistics, spatio-temporal analysis, and small area estimation. She is a co-author of the textbook Probability and Statistics with R and has held prominent positions, including vice president of the Spanish Statistical Society and treasurer of the Federation of European National Statistical Societies. For more information, visit her home page."
   },
   {
     "objectID": "invited.html#esmail-abdul-fattah",
     "href": "invited.html#esmail-abdul-fattah",
     "title": "Invited Speakers",
-    "section": "",
-    "text": "Postdoctoral Researcher, CEMSE Division, KAUST\n\n\nEsmail’s research focuses on advancing computational tools and methodologies to improve Bayesian inference, bridging complex statistical theory with practical computational applications. He earned his PhD in Statistics at KAUST under the supervision of Professor Håvard Rue, as part of the Computational Bayesian Statistics research group. In recognition of his contributions to computational statistics, he received the prestigious 2023 Al-Kindi Research Award for Outstanding Research."
+    "section": "Esmail Abdul Fattah",
+    "text": "Esmail Abdul Fattah\nPostdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST\n\n\nEsmail’s research focuses on advancing computational tools and methodologies to improve Bayesian inference, bridging complex statistical theory with practical computational applications. He earned his PhD in Statistics at KAUST under the supervision of Professor Håvard Rue, as part of the Computational Bayesian Statistics research group. In recognition of his contributions to computational statistics, he received the prestigious 2023 Al-Kindi Research Award for Outstanding Research. For more information, visit his home page."
+  },
+  {
+    "objectID": "invited.html#lisa-b-gaedke-merzhauser",
+    "href": "invited.html#lisa-b-gaedke-merzhauser",
+    "title": "Invited Speakers",
+    "section": "Lisa B Gaedke Merzhauser",
+    "text": "Lisa B Gaedke Merzhauser\nPostdoctoral Research fellow in Statistics, CEMSE Division, KAUST\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
   },
   {
     "objectID": "keynotes.html",
     "href": "keynotes.html",
     "title": "Keynote Speakers",
     "section": "",
-    "text": "Chair of Statistics, School of Mathematics, The University of Edinburgh\n\n\nProfessor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features."
+    "text": "Chair of Statistics, School of Mathematics, The University of Edinburgh\n\n\nProfessor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features.\nFor more information, visit his home page"
   },
   {
     "objectID": "keynotes.html#finn-lindgren",
     "href": "keynotes.html#finn-lindgren",
     "title": "Keynote Speakers",
     "section": "",
-    "text": "Chair of Statistics, School of Mathematics, The University of Edinburgh\n\n\nProfessor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features."
+    "text": "Chair of Statistics, School of Mathematics, The University of Edinburgh\n\n\nProfessor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features.\nFor more information, visit his home page"
   },
   {
     "objectID": "keynotes.html#sara-martino",
     "href": "keynotes.html#sara-martino",
     "title": "Keynote Speakers",
     "section": "Sara Martino",
-    "text": "Sara Martino\nAssociate Professor, Department of Mathematical Sciences, NTNU, Norway\n\n\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    "text": "Sara Martino\nAssociate Professor, Department of Mathematical Sciences, NTNU, Norway\n\n\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\nFor more information, visit her home page"
+  },
+  {
+    "objectID": "keynotes.html#elias-teixeira-krainski",
+    "href": "keynotes.html#elias-teixeira-krainski",
+    "title": "Keynote Speakers",
+    "section": "Elias Teixeira Krainski",
+    "text": "Elias Teixeira Krainski\nPostdoctoral Research Fellow in Statistics, CEMSE Division, KAUST\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?\nFor more information, visit his home page"
   },
   {
     "objectID": "posters.html",

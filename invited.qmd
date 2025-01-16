@@ -2,14 +2,32 @@
 title: "Invited Speakers"
 ---
 
-## Esmail Abdul Fattah
+## Lola Ugarte
 
-Postdoctoral Researcher, CEMSE Division, KAUST
+Postdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST
 
 ::: columns
 ::: {.column width="80%"}
 
-Esmail's research focuses on advancing computational tools and methodologies to improve Bayesian inference, bridging complex statistical theory with practical computational applications. He earned his PhD in Statistics at KAUST under the supervision of Professor Håvard Rue, as part of the Computational Bayesian Statistics research group. In recognition of his contributions to computational statistics, he received the prestigious 2023 Al-Kindi Research Award for Outstanding Research.
+Lola Ugarte is a Spanish statistician and professor at the Public University of Navarre. She is an expert in spatial statistics, spatio-temporal analysis, and small area estimation. She is a co-author of the textbook Probability and Statistics with R and has held prominent positions, including vice president of the Spanish Statistical Society and treasurer of the Federation of European National Statistical Societies. For more information, visit her [home page](https://www.unavarra.es/personal/lugarte/indexfotoingles.htm).
+
+:::
+::: {.column width="20%"}
+
+![](img/lola_ugarte.png)
+
+
+:::
+:::
+
+## Esmail Abdul Fattah
+
+Postdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST
+
+::: columns
+::: {.column width="80%"}
+
+Esmail's research focuses on advancing computational tools and methodologies to improve Bayesian inference, bridging complex statistical theory with practical computational applications. He earned his PhD in Statistics at KAUST under the supervision of Professor Håvard Rue, as part of the Computational Bayesian Statistics research group. In recognition of his contributions to computational statistics, he received the prestigious 2023 Al-Kindi Research Award for Outstanding Research. For more information, visit his [home page](https://sites.google.com/kaust.edu.sa/esmail-abdulfattah/home).
 
 :::
 ::: {.column width="20%"}
@@ -19,3 +37,24 @@ Esmail's research focuses on advancing computational tools and methodologies to 
 
 :::
 :::
+
+
+## Lisa B Gaedke Merzhauser
+
+Postdoctoral Research fellow in Statistics, CEMSE Division, KAUST
+
+::: columns
+::: {.column width="80%"}
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+:::
+::: {.column width="20%"}
+
+![](img/Esmail_Abdul_Fattah.png)
+
+
+:::
+:::
+
+
