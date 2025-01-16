@@ -2,11 +2,6 @@
 title: "Keynote Speakers"
 ---
 
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
 
 ## Finn Lindgren
 
