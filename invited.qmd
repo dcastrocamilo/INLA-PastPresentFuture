@@ -4,7 +4,7 @@ title: "Invited Speakers"
 
 ## Lola Ugarte
 
-Postdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST
+Professor of Statistics, Public University of Navarre, Spain
 
 ::: columns
 ::: {.column width="80%"}
