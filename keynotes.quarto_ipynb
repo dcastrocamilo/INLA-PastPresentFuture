@@ -9,8 +9,8 @@
         "---\n",
         "\n",
         "```{css, echo = FALSE}\n",
-        ".justify {\n",
-        "  text-align: justify !important\n",
+        "d-article p {\n",
+        "  text-align: justify;\n",
         "}\n",
         "```\n",
         "\n",
@@ -75,7 +75,7 @@
         ":::\n",
         ":::"
       ],
-      "id": "718a43e2"
+      "id": "69746932"
     }
   ],
   "metadata": {
