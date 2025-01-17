@@ -25,7 +25,7 @@ include_graphics('img/hr_pic.png')
 <!-- ``` -->
 
 
-The second edition of the workshop INLA: Past, Present, and Future will be held in honour of Hävard Rue's 60th birthday. 
+The second edition of the workshop INLA: Past, Present, and Future will be held in honour of Håvard Rue's 60th birthday. 
 
 The event will take place **21-23 May 2025** in the University of Glasgow and is generously sponsored by the Glasgow Mathematical Journal Trust.
 
