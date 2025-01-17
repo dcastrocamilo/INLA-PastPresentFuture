@@ -1,6 +1,6 @@
 ---
 title: "INLA: past, present, and future"
-subtitle: "A workshop in honour of Hävard Rue's 60th birthday"
+subtitle: "A workshop in honour of Håvard Rue's 60th birthday"
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
