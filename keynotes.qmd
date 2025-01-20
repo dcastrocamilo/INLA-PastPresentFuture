@@ -68,7 +68,7 @@ Research Scientist, CEMSE Division, KAUST
 ::: columns
 ::: {.column width="30%"}
 
-![](img/janet_vanniekerk.jpeg)
+![](img/janet_vanniekerk.jpeg){width=80%}
 :::
 ::: {.column width="70%"}
 
