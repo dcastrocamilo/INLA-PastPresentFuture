@@ -41,7 +41,7 @@ In addition to building and manipulating metric graphs, participants will learn 
 MetricGraph, inlabru, INLA, leaflet, mapview, viridis, fmesher, sf, rSPDE
 
 
-**About the instructor**: David Bolin is an Associate Professor of Statistics and Affiliate Professor of Applied Mathematics and Computational Sciences (AMCS) at KAUST. Before joining KAUST, he held positions at Chalmers University of Technology and the University of Gothenburg, where he earned the title of Docent in Mathematical Statistics. Bolin’s research focuses on stochastic partial differential equations (PDEs) and their applications in statistics, with an emphasis on developing computationally efficient tools for modeling non-stationary and non-Gaussian processes.
+**About the instructor**: David Bolin is an Associate Professor of Statistics and Affiliate Professor of Applied Mathematics and Computational Sciences at KAUST. Before joining KAUST, he held positions at Chalmers University of Technology and the University of Gothenburg, where he earned the title of Docent in Mathematical Statistics. Bolin’s research focuses on stochastic partial differential equations (PDEs) and their applications in statistics, with an emphasis on developing computationally efficient tools for modeling non-stationary and non-Gaussian processes.
 
 ## inlabru
 
