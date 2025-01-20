@@ -151,6 +151,30 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>There will be two hands-on tutorials. Please see details below.</p>
+<section id="inlabru" class="level2">
+<h2 class="anchored" data-anchor-id="inlabru">inlabru</h2>
+<p><strong>By</strong> <a href="https://www.maths.ed.ac.uk/~flindgre/">Finn Lindgren</a></p>
+<p><strong>Description</strong></p>
+<div class="columns">
+<div class="column" style="width:80%;">
+<p>One of the challenges with spatial and spatio-temporal modelling with latent Gaussian fields is how to translate mathematical models into code and computational package interfaces. Whereas the R-INLA package gives users access to complex modelling and inference, it was clear early on that, in particular, spatial and spatio-temporal latent models, and complex observation models such as point process patterns would benefit from an interface that could automate most of the tedious data wrangling necessary to convert data and models into INLA formats. The inlabru package <a href="https://inlabru-org.github.io/inlabru/">(https://inlabru-org.github.io/inlabru/)</a> was developed with the goal of facilitating spatial model specification in particular, but has since expanded from the GAM-like model class to more general nonlinear predictor expressions, implements a log Gaussian Cox process likelihood for modelling univariate and spatial point processes.</p>
+</div><div class="column" style="width:20%;">
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/inlabru_logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:85.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>This tutorial will show how model components are specified with general inputs and mapping methods to the latent variables, and how linear and non-linear model predictors are specified via general R expressions, with separate expressions for each observation likelihood model in multi-likelihood models. In addition, it will demonstrate how to extract the estimation results and perform posterior prediction and plotting. See Fabian E. Bachl, Finn Lindgren, David L. Borchers, and Janine B. Illian (2019), inlabru: an R package for Bayesian spatial modelling from ecological survey data, <em>Methods in Ecology and Evolution, British Ecological Society</em>, 10, 760–766, doi:10.1111/2041-210X.13168, or the most recent manuscript <a href="https://arxiv.org/abs/2407.00791">https://arxiv.org/abs/2407.00791</a>(2024).</p>
+<p><strong>Packages needed</strong></p>
+<p>R (&gt;= 4.4.2), inlabru, INLA (“testing” version), fmesher, sn, sf, terra, tidyterra, INLAspacetime (including their dependencies).</p>
+<p><strong>About the instructor</strong>: Professor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features.</p>
+</section>
 <section id="statistical-modeling-on-networks-using-metricgraph" class="level2">
 <h2 class="anchored" data-anchor-id="statistical-modeling-on-networks-using-metricgraph">Statistical modeling on networks using MetricGraph</h2>
 <p><strong>By</strong> <a href="https://www.kaust.edu.sa/en/study/faculty/david-bolin">David Bolin</a></p>
@@ -174,15 +198,6 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Packages needed</strong></p>
 <p>MetricGraph, inlabru, INLA, leaflet, mapview, viridis, fmesher, sf, rSPDE</p>
 <p><strong>About the instructor</strong>: David Bolin is an Associate Professor of Statistics and Affiliate Professor of Applied Mathematics and Computational Sciences at KAUST. Before joining KAUST, he held positions at Chalmers University of Technology and the University of Gothenburg, where he earned the title of Docent in Mathematical Statistics. Bolin’s research focuses on stochastic partial differential equations (PDEs) and their applications in statistics, with an emphasis on developing computationally efficient tools for modeling non-stationary and non-Gaussian processes.</p>
-</section>
-<section id="inlabru" class="level2">
-<h2 class="anchored" data-anchor-id="inlabru">inlabru</h2>
-<p><strong>By</strong> <a href="https://www.maths.ed.ac.uk/~flindgre/">Finn Lindgren</a></p>
-<p><strong>Description</strong></p>
-<p>An overview of <a href="https://sites.google.com/inlabru.org/inlabru">inlabru</a>. More details soon.</p>
-<p><strong>Packages needed</strong></p>
-<p>inlabru, INLA</p>
-<p><strong>About the instructor</strong>: Professor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features.</p>
 
 
 </section>
