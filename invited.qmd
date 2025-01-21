@@ -20,9 +20,30 @@ Lola Ugarte is a Spanish statistician and professor at the Public University of 
 :::
 :::
 
+## Jon Wakefield
+
+Professor of Statistics and Biostatistics, University of Washington, US
+
+::: columns
+::: {.column width="80%"}
+
+Jon Wakefield is a Professor of Statistics and Biostatistics at the University of Washington. Before joining the university, he held key roles at Imperial College, including leading the Statistics Group at the Small Area Health Statistics Unit.  
+
+His research encompasses spatial and spatio-temporal modeling, genetic epidemiology, and methods for infectious disease and small-area estimation. Since 2013, he has focused on health and demographic outcomes in low- and middle-income countries, working closely with the UN Inter-agency Group for Child Mortality Estimation, where he serves on the Technical Advisory Group. A Fellow of the American Statistical Association and recipient of the Royal Statistical Society’s Guy Medal in Bronze, he has also served as Chair of the Department of Statistics at the University of Washington. For more information, visit his [home page](https://faculty.washington.edu/jonno/).
+
+:::
+::: {.column width="20%"}
+
+![](img/jon_walefiled.png)
+
+
+:::
+:::
+
+
 ## Esmail Abdul Fattah
 
-Postdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST
+Postdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST, Saudi Arabia
 
 ::: columns
 ::: {.column width="80%"}
@@ -41,7 +62,7 @@ Esmail's research focuses on advancing computational tools and methodologies to 
 
 ## Lisa B Gaedke Merzhauser
 
-Postdoctoral Research fellow in Statistics, CEMSE Division, KAUST
+Postdoctoral Research fellow in Statistics, CEMSE Division, KAUST, Saudi Arabia
 
 ::: columns
 ::: {.column width="80%"}
