@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "invited.html",
+    "href": "invited.html",
+    "title": "Invited Speakers",
+    "section": "",
+    "text": "Professor of Statistics, Public University of Navarre, Spain\n\n\nLola Ugarte is a Spanish statistician and professor at the Public University of Navarre. She is an expert in spatial statistics, spatio-temporal analysis, and small area estimation. She is a co-author of the textbook Probability and Statistics with R and has held prominent positions, including vice president of the Spanish Statistical Society and treasurer of the Federation of European National Statistical Societies. For more information, visit her home page."
+  },
+  {
+    "objectID": "invited.html#lola-ugarte",
+    "href": "invited.html#lola-ugarte",
+    "title": "Invited Speakers",
+    "section": "",
+    "text": "Professor of Statistics, Public University of Navarre, Spain\n\n\nLola Ugarte is a Spanish statistician and professor at the Public University of Navarre. She is an expert in spatial statistics, spatio-temporal analysis, and small area estimation. She is a co-author of the textbook Probability and Statistics with R and has held prominent positions, including vice president of the Spanish Statistical Society and treasurer of the Federation of European National Statistical Societies. For more information, visit her home page."
+  },
+  {
+    "objectID": "invited.html#jon-wakefield",
+    "href": "invited.html#jon-wakefield",
+    "title": "Invited Speakers",
+    "section": "Jon Wakefield",
+    "text": "Jon Wakefield\nProfessor of Statistics and Biostatistics, University of Washington, US\n\n\nJon Wakefield is a Professor of Statistics and Biostatistics at the University of Washington. Before joining the university, he held key roles at Imperial College, including leading the Statistics Group at the Small Area Health Statistics Unit.\nHis research encompasses spatial and spatio-temporal modeling, genetic epidemiology, and methods for infectious disease and small-area estimation. Since 2013, he has focused on health and demographic outcomes in low- and middle-income countries, working closely with the UN Inter-agency Group for Child Mortality Estimation, where he serves on the Technical Advisory Group. A Fellow of the American Statistical Association and recipient of the Royal Statistical Society’s Guy Medal in Bronze, he has also served as Chair of the Department of Statistics at the University of Washington. For more information, visit his home page."
+  },
+  {
+    "objectID": "invited.html#esmail-abdul-fattah",
+    "href": "invited.html#esmail-abdul-fattah",
+    "title": "Invited Speakers",
+    "section": "Esmail Abdul Fattah",
+    "text": "Esmail Abdul Fattah\nPostdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST, Saudi Arabia\n\n\nEsmail’s research focuses on advancing computational tools and methodologies to improve Bayesian inference, bridging complex statistical theory with practical computational applications. He earned his PhD in Statistics at KAUST under the supervision of Professor Håvard Rue, as part of the Computational Bayesian Statistics research group. In recognition of his contributions to computational statistics, he received the prestigious 2023 Al-Kindi Research Award for Outstanding Research. For more information, visit his home page."
+  },
+  {
+    "objectID": "invited.html#lisa-b-gaedke-merzhauser",
+    "href": "invited.html#lisa-b-gaedke-merzhauser",
+    "title": "Invited Speakers",
+    "section": "Lisa B Gaedke Merzhauser",
+    "text": "Lisa B Gaedke Merzhauser\nPostdoctoral Research fellow in Statistics, CEMSE Division, KAUST, Saudi Arabia\n\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+  },
+  {
+    "objectID": "keynotes.html",
+    "href": "keynotes.html",
+    "title": "Keynote Speakers",
+    "section": "",
+    "text": "Chair of Statistics, School of Mathematics, The University of Edinburgh, Scotland\n\n\nProfessor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features.\nFor more information, visit his home page"
+  },
+  {
+    "objectID": "keynotes.html#finn-lindgren",
+    "href": "keynotes.html#finn-lindgren",
+    "title": "Keynote Speakers",
+    "section": "",
+    "text": "Chair of Statistics, School of Mathematics, The University of Edinburgh, Scotland\n\n\nProfessor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features.\nFor more information, visit his home page"
+  },
+  {
+    "objectID": "keynotes.html#sara-martino",
+    "href": "keynotes.html#sara-martino",
+    "title": "Keynote Speakers",
+    "section": "Sara Martino",
+    "text": "Sara Martino\nAssociate Professor, Department of Mathematical Sciences, NTNU, Norway\n\n\nSara Martino is Associate Professor of Statistics at NTNU in Norway and previously a researcher at SINTEF Energy AS. Her research interests are Bayesian modeling and spatial and spatio-temporal statistics. She has contributed to various research fields, including ecology, environmental science and survival analysis. Dr Martino has contributed significantly to the field through various publications. Notably, she co-authored the paper “Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations,” published in Journal of the Royal Statistical Society Series B on 2009. This seminal contribution to Bayesian statistics introduces and develops the INLA methodology.\nFor more information, visit her home page"
+  },
+  {
+    "objectID": "keynotes.html#elias-teixeira-krainski",
+    "href": "keynotes.html#elias-teixeira-krainski",
+    "title": "Keynote Speakers",
+    "section": "Elias Teixeira Krainski",
+    "text": "Elias Teixeira Krainski\nPostdoctoral Research Fellow in Statistics, CEMSE Division, KAUST, Saudi Arabia\n\n\nDr Elias Teixeira Krainski is a Postdoctoral Research Fellow in Statistics at the King Abdullah University of Science and Technology (KAUST), working under the supervision of Professor Håvard Rue. He earned his PhD from the Norwegian University of Science and Technology in 2018 and has held positions as an Adjunct Professor at Universidade Federal do Paraná (2018-2019) and as a Postdoctoral Fellow at Dalhousie University (2019-2020). Dr Krainski’s work centres on developing complex yet accessible statistical models, with a focus on efficient Bayesian methods, spatio-temporal statistics, and Integrated Nested Laplace Approximations (INLA).\nFor more information, visit his home page"
+  },
+  {
+    "objectID": "keynotes.html#janet-van-niekerk",
+    "href": "keynotes.html#janet-van-niekerk",
+    "title": "Keynote Speakers",
+    "section": "Janet van Niekerk",
+    "text": "Janet van Niekerk\nResearch Scientist, CEMSE Division, KAUST, Saudi Arabia\n\n\nJanet is currently a Research Scientist at KAUST and was previously a Senior Lecturer at the University of Pretoria in South Africa. Her research interests are Bayesian modeling and computational approaches. She has worked in various research fields such as survival analysis and epidemiology. While at KAUST she worked on the new INLA methodology. She is an associate editor for Bayesian Analysis and the 2024/2025 young ambassador for the International Biometrics Society.\nFor more information, visit her home page"
+  },
+  {
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Poster presentation",
+    "section": "",
+    "text": "All poster presenters will have the opportunity to give a 3-minute flash presentation showcasing the research featured on their posters. Presenters must include a single slide to accompany their talk. This is a valuable chance to highlight your work and inspire attendees to engage further during the designated poster session. Please submit you poster abstract by the 3rd of March using this form. Abstracts should be a maximum of 250 words."
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "The Best Poster and Best Contributed Talk Awards recognise outstanding contributions to the workshop We are particularly committed to highlighting the achievements of early-career researchers, including PhD students and postdoctoral fellows.\nAward winners will be announced on the final day of the workshop. All submissions for contributed talks and posters by students and early-career researchers will automatically be considered for these awards."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For any inquiries, please contact Daniela Castro-Camilo at daniela.castrocamilo@glasgow.ac.uk."
+  },
+  {
+    "objectID": "abstract.html",
+    "href": "abstract.html",
+    "title": "Abstract Submision",
+    "section": "",
+    "text": "We welcome contributed talks and poster presentations. The deadline for abstract submission is the 3rd of March 2025."
+  },
+  {
+    "objectID": "abstract.html#contributed-talks",
+    "href": "abstract.html#contributed-talks",
+    "title": "Abstract Submision",
+    "section": "Contributed talks",
+    "text": "Contributed talks\nPlease submit you abstract using this form. Abstracts should be a maximum of 250 words."
+  },
+  {
+    "objectID": "abstract.html#poster-presentation",
+    "href": "abstract.html#poster-presentation",
+    "title": "Abstract Submision",
+    "section": "Poster presentation",
+    "text": "Poster presentation\nAll poster presenters will have the opportunity to give a 3-minute flash presentation showcasing the research featured on their posters. Presenters must include a single slide to accompany their talk. This is a valuable chance to highlight your work and inspire attendees to engage further during the designated poster session. Please submit you poster abstract using this form. Abstracts should be a maximum of 250 words."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "INLA: past, present, and future",
+    "section": "",
+    "text": "The second edition of the workshop INLA: Past, Present, and Future will be held in honour of Håvard Rue’s 60th birthday.\nThe event will take place 21-23 May 2025 in the University of Glasgow and is generously sponsored by the Glasgow Mathematical Journal Trust.\nThis 2.5 day workshop is free of charge, but registration is required due to limited capacity. Students and early career researchers are encouraged to participate.\n\nActivities at a glance\n\nKeynote talks\nInvited talks\nContributed talks\nTwo tutorials\nPoster session with flash poster presentations\nBest contributed talk and best poster awards\n\n\n\n\n\n\n\n\n\nContact\nFor any inquiries, please contact Daniela Castro-Camilo at daniela.castrocamilo@glasgow.ac.uk."
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "There will be two hands-on tutorials. Please see details below."
+  },
+  {
+    "objectID": "tutorials.html#inlabru",
+    "href": "tutorials.html#inlabru",
+    "title": "Tutorials",
+    "section": "inlabru",
+    "text": "inlabru\nBy Finn Lindgren\nDescription\n\n\nOne of the challenges with spatial and spatio-temporal modelling with latent Gaussian fields is how to translate mathematical models into code and computational package interfaces. Whereas the R-INLA package gives users access to complex modelling and inference, it was clear early on that, in particular, spatial and spatio-temporal latent models, and complex observation models such as point process patterns would benefit from an interface that could automate most of the tedious data wrangling necessary to convert data and models into INLA formats. The inlabru package (https://inlabru-org.github.io/inlabru/) was developed with the goal of facilitating spatial model specification in particular, but has since expanded from the GAM-like model class to more general nonlinear predictor expressions, implements a log Gaussian Cox process likelihood for modelling univariate and spatial point processes.\n\n\n\n\n\n\n\n\n\n\n\n\nThis tutorial will show how model components are specified with general inputs and mapping methods to the latent variables, and how linear and non-linear model predictors are specified via general R expressions, with separate expressions for each observation likelihood model in multi-likelihood models. In addition, it will demonstrate how to extract the estimation results and perform posterior prediction and plotting. See Fabian E. Bachl, Finn Lindgren, David L. Borchers, and Janine B. Illian (2019), inlabru: an R package for Bayesian spatial modelling from ecological survey data, Methods in Ecology and Evolution, British Ecological Society, 10, 760–766, doi:10.1111/2041-210X.13168, or the most recent manuscript https://arxiv.org/abs/2407.00791(2024).\nPackages needed\nR (&gt;= 4.4.2), inlabru, INLA (“testing” version), fmesher, sn, sf, terra, tidyterra, INLAspacetime (including their dependencies).\nAbout the instructor: Professor Lindgren’s research focuses on spatial and spatio-temporal stochastic models, environmetrics, and computational methods and software. Among many others, he co-authored the influential paper “An Explicit Link Between Gaussian Fields and Gaussian Markov Random Fields: The Stochastic Partial Differential Equation Approach,” published in the Journal of the Royal Statistical Society: Series B. Professor Lindgren has contributed to the development of several R packages, including INLA for Bayesian latent Gaussian models and inlabru, a user-friendly interface for INLA with additional features."
+  },
+  {
+    "objectID": "tutorials.html#statistical-modeling-on-networks-using-metricgraph",
+    "href": "tutorials.html#statistical-modeling-on-networks-using-metricgraph",
+    "title": "Tutorials",
+    "section": "Statistical modeling on networks using MetricGraph",
+    "text": "Statistical modeling on networks using MetricGraph\nBy David Bolin\nDescription\n\n\nThere is an increasing interest in geostatistical modeling on metric graphs, such as street or river networks. Motivated by this, the course provides an introduction to statistical modeling on metric graphs using the MetricGraph package in R. Participants will learn the fundamental concepts of metric graphs and how to build metric graphs from various real-world data sources, such as OpenStreetMap, SSN river data, and TomTom traffic data.\nIn addition to building and manipulating metric graphs, participants will learn how to add and integrate external data into metric graphs and explore data visualization techniques using ggplot2, plotly and leaflet. The course also introduces participants to mixed effects models and log-Gaussian Cox processes on metric graphs, including Gaussian random fields such as the Whittle-Matérn fields, and demonstrates how to fit these models using the MetricGraph package in combination with R-INLA and inlabru.\n\n\n\n\n\n\n\n\n\n\n\n\nPackages needed\nMetricGraph, inlabru, INLA, leaflet, mapview, viridis, fmesher, sf, rSPDE\nAbout the instructor: David Bolin is an Associate Professor of Statistics and Affiliate Professor of Applied Mathematics and Computational Sciences at KAUST. Before joining KAUST, he held positions at Chalmers University of Technology and the University of Gothenburg, where he earned the title of Docent in Mathematical Statistics. Bolin’s research focuses on stochastic partial differential equations (PDEs) and their applications in statistics, with an emphasis on developing computationally efficient tools for modeling non-stationary and non-Gaussian processes."
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "The workshop is free of charge, but registration is mandatory due to limited capacity. Please register to attend the workshop using this form."
+  }
+]

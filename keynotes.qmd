@@ -30,7 +30,8 @@ Associate Professor, Department of Mathematical Sciences, NTNU, Norway
 ::: columns
 ::: {.column width="80%"}
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Sara Martino is Associate Professor of Statistics at NTNU in Norway and previously a researcher at SINTEF Energy AS. Her research interests are Bayesian modeling and spatial and spatio-temporal statistics. She has contributed to various research fields, including ecology, environmental science and survival analysis.
+Dr Martino has contributed significantly to the field through various publications. Notably, she co-authored the paper "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations," published in Journal of the Royal Statistical Society Series B on 2009. This seminal contribution to Bayesian statistics introduces and develops the INLA methodology.
 
 For more information, visit her [home page](https://www.ntnu.edu/employees/sara.martino)
 
