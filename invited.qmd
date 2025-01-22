@@ -45,7 +45,7 @@ Professor in Statistics, NTNU, Norway
 ::: columns
 ::: {.column width="80%"}
 
-Andrea Riebler is a Professor of Statistics at the Norwegian University of Science and Technology (NTNU), Trondheim. She earned her Ph.D. in 2010 from the University of Zurich and later held a postdoctoral fellowship there in statistical genomics. Her research focuses on spatial statistics, Bayesian inference, and biostatistical applications. She has led projects funded by the Norwegian Research Council, including work on Penalized Complexity Priors for Bayesian models. Andrea contributes to developing the INLA software and the R package SUMMER, which focuses on mapping health indicators in low- and middle-income countries. For more information, visit her [home page](https://andrerie.folk.ntnu.no/).
+Andrea Riebler is a Professor of Statistics at the Norwegian University of Science and Technology (NTNU), Trondheim. She earned her Ph.D. in 2010 from the University of Zurich and later held a postdoctoral fellowship there in statistical genomics. Her research focuses on spatial statistics, Bayesian inference, and biostatistical applications. She has led projects funded by the Norwegian Research Council, including work on Penalized Complexity Priors for Bayesian models. Andrea has contributed to developing the INLA software and the R package SUMMER, which focuses on mapping health indicators in low- and middle-income countries. For more information, visit her [home page](https://andrerie.folk.ntnu.no/).
 
 :::
 ::: {.column width="20%"}
