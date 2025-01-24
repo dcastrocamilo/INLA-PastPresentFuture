@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - registration.qmd
+      - href: programme.qmd
+        text: Programme
       - keynotes.qmd
       - invited.qmd
       - tutorials.qmd
