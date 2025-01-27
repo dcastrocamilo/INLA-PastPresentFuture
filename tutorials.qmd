@@ -47,7 +47,7 @@ R (>= 4.4.2), inlabru, INLA ("testing" version), fmesher, sn, sf, terra, tidyter
 
 ## Statistical modeling on networks using MetricGraph
 
-**By** [David Bolin](https://www.kaust.edu.sa/en/study/faculty/david-bolin)
+**By** [David Bolin](https://www.kaust.edu.sa/en/study/faculty/david-bolin) and [Alexandre De Bustamante Simas](https://cemse.kaust.edu.sa/profiles/alexandre-de-bustamante-simas)
 
 **Description**
 
@@ -74,5 +74,9 @@ include_graphics('img/metricgraph_logo.png')
 MetricGraph, inlabru, INLA, leaflet, mapview, viridis, fmesher, sf, rSPDE
 
 
-**About the instructor**: David Bolin is an Associate Professor of Statistics and Affiliate Professor of Applied Mathematics and Computational Sciences at KAUST. Before joining KAUST, he held positions at Chalmers University of Technology and the University of Gothenburg, where he earned the title of Docent in Mathematical Statistics. Bolin’s research focuses on stochastic partial differential equations (PDEs) and their applications in statistics, with an emphasis on developing computationally efficient tools for modeling non-stationary and non-Gaussian processes.
+**About the instructors**: 
+
+David Bolin is an Associate Professor of Statistics and Affiliate Professor of Applied Mathematics and Computational Sciences at KAUST. Before joining KAUST, he held positions at Chalmers University of Technology and the University of Gothenburg, where he earned the title of Docent in Mathematical Statistics. Bolin’s research focuses on stochastic partial differential equations (PDEs) and their applications in statistics, with an emphasis on developing computationally efficient tools for modeling non-stationary and non-Gaussian processes.
+
+Alexandre B. Simas is a Research Scientist in the Statistics Program at KAUST. Before joining KAUST, he was an Associate Professor at the Federal University of Paraíba in Brazil. His research focuses on stochastic analysis, spatial statistics, and partial differential equations, with a recent emphasis on random fields on metric graphs. Simas has contributed to the development of practical tools, such as the MetricGraph package, co-developed with David Bolin and Jonas Wallin, which connects theoretical foundations with applied statistical modeling on complex spatial structures.
 
