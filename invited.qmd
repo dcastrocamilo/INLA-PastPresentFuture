@@ -76,18 +76,20 @@ Esmail's research focuses on advancing computational tools and methodologies to 
 :::
 
 
-## Lisa B Gaedke Merzhauser
+## Lisa B Gaedke-Merzhäuser
 
 Postdoctoral Research fellow in Statistics, CEMSE Division, KAUST, Saudi Arabia
 
 ::: columns
 ::: {.column width="80%"}
 
+Lisa is a Postdoctoral Fellow in Statistics at King Abdullah University of Science and Technology in Saudi Arabia. She holds a PhD in Computational Science from Università della Svizzera italiana (USI) in Lugano, Switzerland. Her research interests lie in fusing statistical learning techniques with methods from high-performance computing. She has been developing INLA_DIST, a GPU-accelerated distributed memory implementation of INLA for large-scale spatio-temporal models. 
+
 
 :::
 ::: {.column width="20%"}
 
-![](img/person_icon.png)
+![](img/lisa_bgaedke.jpg)
 
 
 :::

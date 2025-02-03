@@ -35,11 +35,11 @@
     "text": "Esmail Abdul Fattah\nPostdoctoral Research fellow in High Performance Computing, CEMSE Division, KAUST, Saudi Arabia\n\n\nEsmail’s research focuses on advancing computational tools and methodologies to improve Bayesian inference, bridging complex statistical theory with practical computational applications. He earned his PhD in Statistics at KAUST under the supervision of Professor Håvard Rue, as part of the Computational Bayesian Statistics research group. In recognition of his contributions to computational statistics, he received the prestigious 2023 Al-Kindi Research Award for Outstanding Research. For more information, visit his home page."
   },
   {
-    "objectID": "invited.html#lisa-b-gaedke-merzhauser",
-    "href": "invited.html#lisa-b-gaedke-merzhauser",
+    "objectID": "invited.html#lisa-b-gaedke-merzhäuser",
+    "href": "invited.html#lisa-b-gaedke-merzhäuser",
     "title": "Invited Speakers",
-    "section": "Lisa B Gaedke Merzhauser",
-    "text": "Lisa B Gaedke Merzhauser\nPostdoctoral Research fellow in Statistics, CEMSE Division, KAUST, Saudi Arabia"
+    "section": "Lisa B Gaedke-Merzhäuser",
+    "text": "Lisa B Gaedke-Merzhäuser\nPostdoctoral Research fellow in Statistics, CEMSE Division, KAUST, Saudi Arabia\n\n\nLisa is a Postdoctoral Fellow in Statistics at King Abdullah University of Science and Technology in Saudi Arabia. She holds a PhD in Computational Science from Università della Svizzera italiana (USI) in Lugano, Switzerland. Her research interests lie in fusing statistical learning techniques with methods from high-performance computing. She has been developing INLA_DIST, a GPU-accelerated distributed memory implementation of INLA for large-scale spatio-temporal models."
   },
   {
     "objectID": "keynotes.html",
