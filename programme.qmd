@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 *Note: This is a draft programme subject to modifications.*
 
-**ASB**: room 389 Adam Smith Building. 2 Discovery Pl, Glasgow G11 6EY [(Google map)](https://www.google.com/maps/place/Adam+Smith+Building/@55.8707374,-4.294399,436m/data=!3m1!1e3!4m6!3m5!1s0x488845d2737b79fd:0xfe2b41461842a2b1!8m2!3d55.8707374!4d-4.2956865!16s%2Fm%2F0cp1g7m?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D)
+**ASB**: [room 489](https://www.gla.ac.uk/myglasgow/estates/timetabling/roomphotos/adamsmith/#adamsmithbuilding-room489) Adam Smith Building. 2 Discovery Pl, Glasgow G11 6EY [(Google map)](https://www.google.com/maps/place/Adam+Smith+Building/@55.8707374,-4.294399,436m/data=!3m1!1e3!4m6!3m5!1s0x488845d2737b79fd:0xfe2b41461842a2b1!8m2!3d55.8707374!4d-4.2956865!16s%2Fm%2F0cp1g7m?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D)
 
 **M&S CM**: common room located on level 3 of The Mathematics & Statistics Building. 132 University Pl, G12 8QQ [(Google map)](https://www.google.com/maps/place/School+of+Mathematics+and+Statistics/@55.8726073,-4.2944843,511m/data=!3m2!1e3!4b1!4m6!3m5!1s0x488845cfd066d839:0xeab86bed8f92f0d0!8m2!3d55.8726073!4d-4.2944843!16s%2Fg%2F11ddzkn8v0?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
 
