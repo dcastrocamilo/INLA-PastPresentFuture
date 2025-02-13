@@ -13,6 +13,8 @@ website:
         text: Programme
       - keynotes.qmd
       - invited.qmd
+      - href: panel.qmd
+        text: Panel Discussion
       - tutorials.qmd
       - abstract.qmd
       - awards.qmd
