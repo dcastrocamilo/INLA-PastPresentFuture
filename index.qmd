@@ -1,6 +1,6 @@
 ---
-title: "INLA: past, present, and future"
-subtitle: "A workshop in honour of Håvard Rue's 60th birthday"
+title: "Redirecting..."
+redirect: https://www.gla.ac.uk/
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -16,7 +16,6 @@ library(knitr)
 
 include_graphics('img/hr_pic.png')
 ```
-
 
 <!-- ```{r, echo=F} -->
 <!-- #| column: margin -->
